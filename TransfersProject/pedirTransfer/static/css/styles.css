@@ -1,0 +1,27 @@
+body {
+    margin: auto;
+}
+
+h1 {
+    font-family: 'Finlandica', sans-serif;
+    color: #00321f;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 15px;
+    border-bottom: 3px solid #5cf38d;
+}
+
+h2 {
+    font-family: 'Finlandica', sans-serif;
+    color: #00321f;
+}
+
+.title {
+    padding: 5px;
+    background-color: #00dca127;
+}
+
+.text {
+    padding: 5px;
+    background-color: #5cf38c28;
+}
